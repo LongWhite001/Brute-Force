@@ -1,3 +1,5 @@
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/906fcf7e-4c3d-4380-9dc2-a36bfd5c2f78" />
+
 Como Usar:
 1 – Instale o Python.
 2 – Extraia a pasta BruteForce Gmail.
