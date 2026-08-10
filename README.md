@@ -34,6 +34,9 @@ Funcionalidades:
 Limitações do Google:
 
 • Bloqueio de IP: Após várias tentativas, o Google bloqueia
+
 • Captcha: Aparece frequentemente em tentativas repetidas
+
 • 2FA: A maioria das contas tem verificação em duas etapas
+
 • Rate Limiting: Limite de tentativas por minuto
