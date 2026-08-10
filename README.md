@@ -1,11 +1,18 @@
 <img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/906fcf7e-4c3d-4380-9dc2-a36bfd5c2f78" />
 
 Como Usar:
-1 – Instale o Python.
+1 – Instale o Python e marque as Caixas:
+Use Admin privileges when installing py.exe
+Add python.exe to PATH
+
 2 – Extraia a pasta BruteForce Gmail.
+
 3 – Execute como Administrador o script Install Dependencias.
+
 4 – Execute o script python gmail_tester.
+
 Ele pedira o gmail que deseja atacar, e se deseja usar modo visual ou oculto.
+
 Ele começara um ataque de força bruta de tentativa e erro até logar na conta.
 Recomendado:
 Use o modo Visual Opção 1.
