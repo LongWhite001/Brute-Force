@@ -22,9 +22,13 @@ Recursos e Limitações Reais:
 Funcionalidades:
 
 • Testa senhas automaticamente
+
 • Detecta quando a senha está correta
+
 • Identifica contas com 2FA (Segundo Fator de Altenticação)
+
 • Detecta captchas e bloqueios
+
 • Mostra progresso em tempo real
 
 Limitações do Google:
