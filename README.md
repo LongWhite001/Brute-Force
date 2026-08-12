@@ -1,5 +1,8 @@
 <img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/906fcf7e-4c3d-4380-9dc2-a36bfd5c2f78" />
 
+-------------------
+BruteForce Gmail
+-------------------
 
 1 – Instale o Python e marque as Caixas:
 Use Admin privileges when installing py.exe
