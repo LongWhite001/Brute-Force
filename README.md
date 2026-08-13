@@ -69,5 +69,7 @@ Script Python que permite disparar 1 mensagem no whatsapp automaticamente, e dep
 ele pedira para voce fazer login escaneando o QRcode.
 Ele é mais facil edição das mensagens e do destinatario, bastando editar apenas o arquivo mensagem.txt,
 e permite mensagens maiores e modificaveis a seu gosto.
+
 NÚMERO: 55115858747    Aqui o destinatario.
+
 MENSAGEM: Aqui a mensagem a ser emviada.
