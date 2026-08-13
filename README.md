@@ -1,8 +1,12 @@
 <img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/906fcf7e-4c3d-4380-9dc2-a36bfd5c2f78" />
 
 -------------------
-BruteForce Gmail
+1 - BruteForce Gmail
 -------------------
+Instale o Python e marque as Caixas:
+Use Admin privileges when installing py.exe
+Add python.exe to PATH.
+Isso se aplica a todos os Scripts aqui neste Diretorio.
 
 1 – Instale o Python e marque as Caixas:
 Use Admin privileges when installing py.exe
@@ -43,3 +47,27 @@ Limitações do Google:
 • 2FA: A maioria das contas tem verificação em duas etapas
 
 • Rate Limiting: Limite de tentativas por minuto
+
+-------------------
+2 - Whatsapp Mensagem Automatica Na Força Bruta 1.0
+-------------------
+Instale as Dependencias e tenha o Python Instalado.
+Script Python que permite disparar 1 mensagem no whatsapp automaticamente, e depois fecha.
+ele pedira para voce fazer login escaneando o QRcode.
+Para editar a mensagem edite o script pithon e altere os seguintes caminhos:
+
+numero_telefone = "5517888899685" Altere para o numero de Whatsapp que deseja mandar
+a mensagem, não remova as aspas.
+
+mensagem = "Nascer pobre sim, otario ai é foda"  Altere a mensagem. Não remova as aspas.
+
+-------------------
+3 - Whatsapp Mensagem Automatica Na Força Bruta 2.0
+-------------------
+Instale as Dependencias e tenha o Python Instalado.
+Script Python que permite disparar 1 mensagem no whatsapp automaticamente, e depois fecha.
+ele pedira para voce fazer login escaneando o QRcode.
+Ele é mais facil edição das mensagens e do destinatario, bastando editar apenas o arquivo mensagem.txt,
+e permite mensagens maiores e modificaveis a seu gosto.
+NÚMERO: 55115858747    Aqui o destinatario.
+MENSAGEM: Aqui a mensagem a ser emviada.
