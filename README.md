@@ -73,3 +73,39 @@ e permite mensagens maiores e modificaveis a seu gosto.
 NÚMERO: 55115858747    Aqui o destinatario.
 
 MENSAGEM: Aqui a mensagem a ser emviada.
+
+-------------------
+04 - Brute-Force Gmail-Powershell SendKeys Incognito
+-------------------
+
+CONFIGURAÇÕES ADICIONAIS (OPCIONAL)
+
+# No início do script, ajuste estes valores:
+$delayEntreLetras = 150 # Aumentar se digitar rápido demais
+
+$tempoEsperaEmail = 5 # Tempo após enviar email
+
+$tempoEsperaSenha = 4 # Tempo após enviar senha
+
+$delayEntreTentativas = 2 # Tempo entre tentativas
+
+Como Usar:
+
+1. Execute como Administrador o Script Brute-Force GmailPowershell.bat.
+
+2. Feche outras janelas que possam capturar o foco.
+
+3. Deixe o Chrome em tela cheia.
+
+4. Ao final ele dará um relatório, apague ele depois do teste, caso
+contrario ele poderá dar erros na próxima execução.
+
+5. Isso acontece porque ele foi feito para uso educacional, testando
+apenas senhas corretas e não para atack de força bruta, porém
+também é capaz de fazer.
+
+6. Adicione senhas a wordlist.
+
+7. Após logar feche o script caso ele não feche automaticamente.
+
+
