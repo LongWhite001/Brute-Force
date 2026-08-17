@@ -108,4 +108,20 @@ também é capaz de fazer.
 
 7. Após logar feche o script caso ele não feche automaticamente.
 
+-------------------
+05 - Esteganografia
+-------------------
 
+Atenção:
+Use o Menu de Esteganografia ou a Versão Menu de Esteganografia visual.
+O Menu de Esteganografia Execute Com Powershell. Compativel com Windows 10 ou Superior.
+Use o O Menu de Esteganografia.ps1 ou O Menu de Esteganografia.exe
+
+Use o Aquivo Leia-me.txt para aprender a usar.
+
+-------------------
+06 - Crackear Arquivos com senha ZIP 7z rar
+-------------------
+
+Atack de Força Bruta em arquivos .7zip, .zip, .RAR.
+Leia o Arquivo Incluso Aprenda a Usar AQUI para aprender a usar.
