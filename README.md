@@ -125,3 +125,22 @@ Use o Aquivo Leia-me.txt para aprender a usar.
 
 Atack de Força Bruta em arquivos .7zip, .zip, .RAR.
 Leia o Arquivo Incluso Aprenda a Usar AQUI para aprender a usar.
+
+
+-------------------
+07 - Esteganografia Python
+-------------------
+
+Instale o Python e marque as Caixas: 
+Use privilégios de administrador ao instalar o py.exe. 
+Adicione python.exe ao PATH. 
+
+1 - Execute o script Instalar dependencias, ou
+abra o cmd e cole o comando abaixo:
+
+Comando:
+pip install pillow numpy
+
+2 - Execute o Script esteganografia.py.
+
+Ele é bem Intuitivo.
