@@ -1,4 +1,4 @@
-<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/906fcf7e-4c3d-4380-9dc2-a36bfd5c2f78" />
+<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/1b1519c7-9858-4a36-a2a6-00f8619397d6" />
 
 -------------------
 1 - BruteForce Gmail
