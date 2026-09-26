@@ -49,33 +49,7 @@ Limitações do Google:
 • Rate Limiting: Limite de tentativas por minuto
 
 -------------------
-2 - Whatsapp Mensagem Automatica Na Força Bruta 1.0
--------------------
-Instale as Dependencias e tenha o Python Instalado.
-Script Python que permite disparar 1 mensagem no whatsapp automaticamente, e depois fecha.
-ele pedira para voce fazer login escaneando o QRcode.
-Para editar a mensagem edite o script pithon e altere os seguintes caminhos:
-
-numero_telefone = "5517888899685" Altere para o numero de Whatsapp que deseja mandar
-a mensagem, não remova as aspas.
-
-mensagem = "Nascer pobre sim, otario ai é foda"  Altere a mensagem. Não remova as aspas.
-
--------------------
-3 - Whatsapp Mensagem Automatica Na Força Bruta 2.0
--------------------
-Instale as Dependencias e tenha o Python Instalado.
-Script Python que permite disparar 1 mensagem no whatsapp automaticamente, e depois fecha.
-ele pedira para voce fazer login escaneando o QRcode.
-Ele é mais facil edição das mensagens e do destinatario, bastando editar apenas o arquivo mensagem.txt,
-e permite mensagens maiores e modificaveis a seu gosto.
-
-NÚMERO: 55115858747    Aqui o destinatario.
-
-MENSAGEM: Aqui a mensagem a ser emviada.
-
--------------------
-04 - Brute-Force Gmail-Powershell SendKeys Incognito
+02 - Brute-Force Gmail-Powershell SendKeys Incognito
 -------------------
 
 CONFIGURAÇÕES ADICIONAIS (OPCIONAL)
@@ -108,39 +82,10 @@ também é capaz de fazer.
 
 7. Após logar feche o script caso ele não feche automaticamente.
 
--------------------
-05 - Esteganografia
--------------------
-
-Atenção:
-Use o Menu de Esteganografia ou a Versão Menu de Esteganografia visual.
-O Menu de Esteganografia Execute Com Powershell. Compativel com Windows 10 ou Superior.
-Use o O Menu de Esteganografia.ps1 ou O Menu de Esteganografia.exe
-
-Use o Aquivo Leia-me.txt para aprender a usar.
 
 -------------------
-06 - Crackear Arquivos com senha ZIP 7z rar
+03 - Crackear Arquivos com senha ZIP 7z rar
 -------------------
 
 Atack de Força Bruta em arquivos .7zip, .zip, .RAR.
 Leia o Arquivo Incluso Aprenda a Usar AQUI para aprender a usar.
-
-
--------------------
-07 - Esteganografia Python
--------------------
-
-Instale o Python e marque as Caixas: 
-Use privilégios de administrador ao instalar o py.exe. 
-Adicione python.exe ao PATH. 
-
-1 - Execute o script Instalar dependencias, ou
-abra o cmd e cole o comando abaixo:
-
-Comando:
-pip install pillow numpy
-
-2 - Execute o Script esteganografia.py.
-
-Ele é bem Intuitivo.
